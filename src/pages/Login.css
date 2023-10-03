@@ -1,0 +1,8 @@
+.login__bg {
+  background-image: url('../assets/istockphoto-533556990.jpg');
+  background-size: cover;
+  min-height: 20vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
